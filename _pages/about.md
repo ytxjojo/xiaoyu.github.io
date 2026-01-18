@@ -168,5 +168,3 @@ permalink: /
   cursor: not-allowed;
 }
 </style>
-
-<script src="/assets/js/main.js"></script>
